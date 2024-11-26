@@ -8,6 +8,8 @@ Step 1: Install and Run Xming
 - Open a terminal in Xming directory and enter the following command. This should run Xming on your windows. 
     - ```Xming.exe -ac```
 
+Step 2: How to run the GUI in docker
+
 - Open a terminal in the project directory and enter the following commands:
 
     - ```set DISPLAY=192.168.1.6:0.0``` (change the ip with your ip)
