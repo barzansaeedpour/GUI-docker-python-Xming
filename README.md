@@ -1,6 +1,6 @@
 # GUI-docker-python-Xming
 
-This is simple project to display GUI app in docker. 
+This is a project to display GUI app in docker and windows using Xming. 
 
 
 Step 1: Install and Run Xming
